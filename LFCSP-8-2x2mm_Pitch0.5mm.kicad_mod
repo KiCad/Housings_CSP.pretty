@@ -1,5 +1,6 @@
 (module LFCSP-8_2x2mm_Pitch0.5mm (layer F.Cu) (tedit 58C95577)
   (descr "LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_8_6.pdf")
+  (tags "LFCSP 8pin 2x2mm Pitch 0.5mm")
   (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
