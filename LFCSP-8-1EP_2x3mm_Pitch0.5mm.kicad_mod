@@ -1,5 +1,6 @@
 (module LFCSP-8-1EP_2x3mm_Pitch0.5mm (layer F.Cu) (tedit 58C95013)
   (descr "LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/57080735642908cp_8_4.pdf")
+  (tags "LFCSP 8pin thermal pad 2x3mm Pitch 0.5mm")
   (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
