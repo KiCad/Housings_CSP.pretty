@@ -1,5 +1,6 @@
 (module Bosch_WLCSP-12_1.56x1.56mm_Pitch0.4mm (layer F.Cu) (tedit 59FB1D1B)
-  (solder_mask_margin 0.05)
+  (descr "WLCSP 12 1.56x1.56 https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMM150-DS001-01.pdf")
+  (tags "BMM150 WLCSP")
   (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
